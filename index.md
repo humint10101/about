@@ -1,4 +1,4 @@
-# social links
+# Contact
 * home: http://humint10101.online
 * phone: +34633876900
 * mailto: eliyahu@humint10101.online
