@@ -8,5 +8,5 @@
 
 # Blog Posts
   {% for post in site.posts %}
-    {{ post.url }}{{ post.title }}
+    <a href="{{ post.url }}">{{ post.title }}</a>
   {% endfor %}
