@@ -7,7 +7,11 @@
 * LinkedIN: [Andreas Radke](https://www.linkedin.com/in/andreas-radke-143878167/)
 
 # Blog Posts
+<ul>
   {% for post in site.posts %}
-      [{{ post.title }}]({{ post.url }})
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
   {% endfor %}
-
+</ul>
