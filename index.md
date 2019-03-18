@@ -5,3 +5,9 @@
 * twitter_username: [@humint10101](https://twitter.com/humint10101)
 * github_username:  [@humint10101](https://github.com/humint10101)
 * LinkedIN: [Andreas Radke](https://www.linkedin.com/in/andreas-radke-143878167/)
+
+# Blog Posts
+  {% for post in site.posts %}
+      [{{ post.title }}]({{ post.url }})
+  {% endfor %}
+
