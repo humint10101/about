@@ -8,3 +8,5 @@
 * Facebook: [@humint10101](https://www.facebook.com/humint10101)
 * Skype: [inted10202@gmail.com](https://join.skype.com/invite/cpNfLATNDSoq)
 
+* Paypal: inted10202@gmail.com
+
