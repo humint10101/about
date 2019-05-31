@@ -9,10 +9,10 @@ We stand for the on-boarding and development of highly skilled and specialized I
 # Portfolio
 We hire Freelancers:
 * Translation/Transcription/Editing/Proofreading in the following language pairs:
-** EN -> NW
-** EN -> DE
-** EN -> SP
-** EN -> FR
+  * EN -> NW
+  * EN -> DE
+  * EN -> SP
+  * EN -> FR
 
 We hire Investigation Specialists for:
 * Online E-Commerce Websites
