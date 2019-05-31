@@ -1,11 +1,29 @@
+# Description:
+HumINT 10101 is a one man brand for Online Recruitment of Freelancers, Investigation Specialists for Online E-Commerce Platforms, and GDPR Case-Analysts. We also establish B2B Contacts to target companies.
+
+# Our Mission
+We stand for the on-boarding and development of highly skilled and specialized IT and Consulting staff, by establishing Business Contacts on a human level. Every business transaction follows the principles and in exactly this order:
+* We deliver your purpose
+* We receive our purpose
+
+# Portfolio
+We hire Freelancers:
+* Translation/Transcription/Editing/Proofreading in the following language pairs:
+** EN -> NW
+** EN -> DE
+** EN -> SP
+** EN -> FR
+
+We hire Investigation Specialists for:
+* Online E-Commerce Websites
+* GDPR Case-Analysts
+
 # Contact
-* Homepage: [humint10101.online](http://humint10101.online)
-* LinkedIN: [@humint10101](https://www.linkedin.com/in/humint10101/)
-* Phone: (request per mail for important matters)
-* Mail: [eliyahu@humint10101.online](mailto:eliyahu@humint10101.online)
-* Twitter: [@humint10101](https://twitter.com/humint10101)
-* Github:  [@humint10101](https://github.com/humint10101)
 * Skype: [inted10202@gmail.com](https://join.skype.com/invite/cpNfLATNDSoq)
-* Signal Private Messenger: humint10101
+* Phone: +34622876900
+* LinkedIN: [@humint10101](https://www.linkedin.com/in/humint10101/)
+* Mail: [eliyahu@humint10101.online](mailto:eliyahu@humint10101.online)
+
+# Donations:
 * Paypal: inted10202<span></span>@gmail.com
 
