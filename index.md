@@ -7,23 +7,28 @@ We stand for the on-boarding and development of highly skilled and specialized I
 * We receive our purpose
 
 # Portfolio
-We hire Freelancers:
-* Translation/Transcription/Editing/Proofreading in the following language pairs:
+## We hire Freelancers
+ * Translation/Transcription/Editing/Proofreading in the following language pairs:
   * EN -> NW
   * EN -> DE
   * EN -> SP
   * EN -> FR
 
-We hire Investigation Specialists for:
+## We hire Investigation Specialists for:
 * Online E-Commerce Websites
 * GDPR Case-Analysts
 
 # Contact
-* Skype: [inted10202@gmail.com](https://join.skype.com/invite/cpNfLATNDSoq)
-* Phone: +34622876900
-* LinkedIN: [@humint10101](https://www.linkedin.com/in/humint10101/)
-* Mail: [eliyahu@humint10101.online](mailto:eliyahu@humint10101.online)
+## Skype: 
+ [inted10202@gmail.com](https://join.skype.com/invite/cpNfLATNDSoq)
+## Phone: 
+ +34622876900
+## LinkedIN: 
+ [@humint10101](https://www.linkedin.com/in/humint10101/)
+## Mail: 
+ [eliyahu@humint10101.online](mailto:eliyahu@humint10101.online)
 
 # Donations:
-* Paypal: inted10202<span></span>@gmail.com
+## Paypal: 
+ inted10202<span></span>@gmail.com
 
