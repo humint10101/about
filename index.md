@@ -19,6 +19,7 @@ We stand for the on-boarding and development of highly skilled and specialized I
   * EN -> DE
   * EN -> SP
   * EN -> FR
+  * EN -> AR
 
 ## We hire Investigation Specialists for:
 * Online E-Commerce Websites
