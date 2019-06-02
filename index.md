@@ -2,7 +2,7 @@
 HumINT 10101 is a one man brand for Online Recruitment of Freelancers, Investigation Specialists for Online E-Commerce Platforms, and GDPR Case-Analysts. We also establish B2B Contacts to target companies.
 
 # Our Mission
-We stand for the on-boarding and development of highly skilled and specialized IT and Consulting staff, by establishing Business Contacts on a human level. Every business transaction follows the principles in exactly this order:
+We stand for the on-boarding and development of highly skilled and specialized IT and Consulting staff, by establishing Business Contacts on a Human level. Every Business Transaction follows the principles in exactly this order:
 * We deliver your purpose
 * We receive our purpose
 
