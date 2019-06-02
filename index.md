@@ -7,6 +7,12 @@ We stand for the on-boarding and development of highly skilled and specialized I
 * We receive our purpose
 
 # Portfolio
+## Sales Representatives
+ * English Native Speakers
+ * German Native Speakers
+ * Spanish Native Speakers
+ * French Native Speakers
+ 
 ## We hire Freelancers
  * Translation/Transcription/Editing/Proofreading in the following language pairs:
   * EN -> NW
